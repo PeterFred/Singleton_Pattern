@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tutorial3_VTNZ.TestingStation">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAAAAAAAABAAAAAAAAAAAAAAAACAIAAIAAAAQ=</HashCode>
+      <FileName>TestingStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial3_VTNZ.VTNZ">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAEA=</HashCode>
+      <FileName>VTNZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial3_VTNZ.ServiceWrapper">
+    <Position X="5.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Tutorial3_VTNZ.CarInspection">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAA=</HashCode>
+      <FileName>CarInspection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Tutorial3_VTNZ.IService">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAA=</HashCode>
+      <FileName>IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

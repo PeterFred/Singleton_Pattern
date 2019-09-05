@@ -1,0 +1,30 @@
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe.config
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.pdb
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csprojResolveAssemblyReference.cache
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Form1.resources
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Properties.Resources.resources
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.GenerateResource.Cache
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.CoreCompileInputs.cache
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.exe
+c:\users\98141269\source\repos\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.pdb
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe.config
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.pdb
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Form1.resources
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Properties.Resources.resources
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.GenerateResource.cache
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.CoreCompileInputs.cache
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.exe
+C:\Users\peter.LINCOLN\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial3_VTNZ\Tutorial3_VTNZ\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.pdb
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe.config
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.exe
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\bin\Debug\Tutorial3_VTNZ.pdb
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csprojAssemblyReference.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Form1.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.Properties.Resources.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.GenerateResource.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.csproj.CoreCompileInputs.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.exe
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_7_Singleton_Simple_Factory\VTNZ_Singleton\VTNZ_Singleton\Tutorial3_VTNZ\obj\Debug\Tutorial3_VTNZ.pdb
